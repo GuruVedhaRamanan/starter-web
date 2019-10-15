@@ -19,4 +19,4 @@ Please fork this repository and then issue pull request fro review.
 
 ### Copyright
 
-2019 Guru
+2019 Guru All rights reserved.
