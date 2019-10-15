@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+ 	Guru guru@gmail.com
 
 # THANKS
 
