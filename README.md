@@ -15,6 +15,7 @@ As stated above, the main purpose is to provide simple examples for git training
 This is a simple web project,deployment can be on any web server or even local files system.
  
 ## How To Continue
+Please fork this repository and then issue pull request fro review.
 
 ### Copyright
 
